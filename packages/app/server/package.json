@@ -1,0 +1,17 @@
+{
+  "name": "@vanphubinh-nocobase/app-server",
+  "version": "0.1.0",
+  "description": "",
+  "license": "AGPL-3.0",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "dependencies": {
+    "@nocobase/preset-nocobase": "0.10.0-alpha.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nocobase/nocobase.git",
+    "directory": "packages/app/server"
+  },
+  "gitHead": "1be8fcdad42688064460761cea22830cf392c7c0"
+}
